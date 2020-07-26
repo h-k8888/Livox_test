@@ -1,2 +1,2 @@
 # Livox_test
-a test for Livox
+a test for Livox Lidar
